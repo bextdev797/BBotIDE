@@ -1,0 +1,17 @@
+BBot.Main.BackgroundColor.Red
+BBot.Main.BackgroundColor.Orange
+BBot.Main.BackgroundColor.Yellow
+BBot.Main.BackgroundColor.Green
+BBot.Main.BackgroundColor.Blue
+BBot.Main.BackgroundColor.Indigo
+BBot.Main.BackgroundColor.Violet
+BBot.Main.John117
+BBot.Main.Colossians23
+BBot.Main.Title
+BBot
+BBot.Main.BackgroundColor.Brown
+
+Author: Brandon Ang
+Date: Nov. 15, 2023 (8:18PM) PST updated
+
+--Edited: Added One More BackgroundColor
