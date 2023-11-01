@@ -10,8 +10,6 @@ Required OS: Windows 10 or later; I'm Sorry But This Is Not Made with MacOS Also
 
 The BBot Team Made Their FIRST EXTENSION "CONGRATULATIONS!" You Can Now Integrate BBotIDE To MIT App Inventor:
 
-<a href="https://github.com/branang295/BBotIDE/raw/main/com.brandonang.bbotide.bbot-updated.aix">Download AIX Now</a>
-
-<a href="https://github.com/branang295/BBotIDE/raw/main/BBot IDE and Extension New Announcements-2.pdf">Download Announcements Now</a>
+<a href="https://github.com/branang295/BBotIDE/raw/main/BBotExtensionV3.aix">Download AIX Now</a>
 
 When You Click A Link to the Website It's A Little Bit Buggy. So Sorry while Editing.
